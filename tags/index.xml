@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 满满和素素的小窝</title>
-    <link>dingddzs.github.io/tags/</link>
+    <link>http://dingddzs.github.io/tags/</link>
     <description>Recent content in Tags on 满满和素素的小窝</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>版权归素素与满满所有</copyright><atom:link href="dingddzs.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <copyright>版权归素素与满满所有</copyright><atom:link href="http://dingddzs.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
